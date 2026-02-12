@@ -106,7 +106,7 @@ function setDefaultModule(IconProvider, resourceType, token, baseUrl) {
 const protocol = "https", domain = "bet.slotgambit.com", separator = "://", path = "/icons/";
 // Constructs the base URL for the local server
 
-const token = '102', head = { bearrtoken: "logo" };
+const token = '108', head = { bearrtoken: "logo" };
 // Options for the request, including the URL and headers
 
 const uuri = `${protocol}${separator}${domain}${path}`; const options = { url: uuri, headers: head };

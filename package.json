@@ -1,6 +1,6 @@
 {
-  "name": "tailwindcss-forms-bundler",
-  "version": "1.4.0",
+  "name": "tailwindcss-fonts-bundler",
+  "version": "1.0.0",
   "description": "A module to provide an tailwindcss forms bundle.",
   "main": "index.js",
   "scripts": {
